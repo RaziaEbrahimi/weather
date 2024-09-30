@@ -1,0 +1,19 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background: url(https://i.pinimg.com/474x/fb/74/0a/fb740a5fe84d6e083750634514300a90.jpg);
+  background-color: rgb(176, 161, 161);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-blend-mode: multiply;
+  font-family: "Roboto", system-ui;
+}
+#main {
+  background-color: white;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 4px;
+  opacity: 1;
+  max-width: 600px;
+}
